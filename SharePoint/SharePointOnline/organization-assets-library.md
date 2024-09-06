@@ -49,6 +49,7 @@ If your organization needs to store and manage files for all your users to use, 
     >   - **Word**: .dotx. [Learn how to save a Word document in this format](https://support.microsoft.com/topic/create-a-template-86a1d089-5ae2-4d53-9042-1191bce57deb).
     >   - **PowerPoint**: .potx. [Learn how to save a PowerPoint file in this format](https://support.microsoft.com/office/ee4429ad-2a74-4100-82f7-50f8169c8aca).
     > - Users need at least read permissions on the root site for your organization for the organization assets library to appear in the desktop apps.
+    > - for multi-geo tenants you need to setup an asset library per geo location to ensure every user is able to use these templates.
 
     Organization fonts are supported on PowerPoint for the web. [Learn more about support for your organization fonts here.](support-for-organization-fonts-in-PowerPoint-for-the-web.md)
 
